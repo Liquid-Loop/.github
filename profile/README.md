@@ -15,7 +15,7 @@
 </p>
 
 
-**[Hoppscotch](https://hoppscotch.io) is a open source project to build some innovative softwares.**
+**[Liquid-Loop](https://hoppscotch.io) is a open source project to build some innovative softwares.**
 
 - Started this project from Yenepoya institute of technology
 - To build Something to society with futuristic technologies
