@@ -15,7 +15,7 @@
 </p>
 
 
-**[Liquid-Loop](https://hoppscotch.io) is a open source project to build some innovative softwares.**
+**[Liquid-Loop](https://liquid-loop.github.io/) is a open source project to build some innovative softwares.**
 
 - Started this project from Yenepoya institute of technology(YIT MAQ)
 - To build something to society with futuristic technologies
