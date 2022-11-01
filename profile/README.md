@@ -21,6 +21,5 @@
 - To build something to society with futuristic technologies
 - Open to all techies and coding buddies
 
-[![Website](https://img.shields.io/badge/Web%20App%20➔-2da44e)](https:liquidloop.tech) [![Repository](https://img.shields.io/badge/Repository-555?logo=github)]([https://github.com/Liquid-Loop/Liquid-Loop-Security-Software])
+[![Website](https://img.shields.io/badge/Web%20App%20➔-2da44e)](https://liquid-loop.github.io/) [![Repository](https://img.shields.io/badge/Repository-555?logo=github)]([https://github.com/Liquid-Loop/Liquid-Loop-Security-Software])
 
-<!-- [<img src="https://repobeats.axiom.co/api/embed/2717e9b3e49b7cd655477e9bdab97dea3c1d4b1a.svg" align="center" width="100%">](https://hoppscotch.io) -->
