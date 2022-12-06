@@ -17,7 +17,7 @@
 
 **[Liquid-Loop](https://liquid-loop.github.io/) is a open source project to build some innovative softwares.**
 
-- Started this Organisation from Yenepoya institute of technology(YIT MAQ)
+- This organization was founded by Yenepoya Institute of Technology students
 - To build something to society with futuristic technologies
 - Open to all techies and coding buddies
 
