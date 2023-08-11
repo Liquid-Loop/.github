@@ -17,8 +17,8 @@
 
 **[Liquid-Loop](https://liquid-loop.github.io/) is a open source project to build some innovative softwares.**
 
-- This organization was founded by Yenepoya Institute of Technology students
-- To build something to society with futuristic technologies
+- This organization was founded by Amal Prasad
+- To build something to society with futuristic technologies !
 - Open to all techies and coding buddies
 
 [![Website](https://img.shields.io/badge/Web%20App%20➔-2da44e)](https://liquid-loop.github.io/) [![Repository](https://img.shields.io/badge/Repository-555?logo=github)]([https://github.com/Liquid-Loop/Liquid-Loop-Security-Software])
