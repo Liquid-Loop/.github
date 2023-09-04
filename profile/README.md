@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About US:
-🚀 Welcome to Liquid Loop Codes, where we craft the future of AI and App Development.<br>🧠 Dive into our world of innovation, stay tuned for NeuroMetaps and Pickmi App!<br>👨‍💼 Meet the visionary behind it all: Amal Prasad, leading the way in India's tech landscape.<br>🌍 Join us on our global journey from the heart of India.<br>🏢 We're not just a company; we're a force of technology distribution.
+🚀 Welcome to Liquid Loop Codes, where we craft the future of AI and App Development.<br>🧠 Dive into our world of innovation, stay tuned for NeuroMetaps and Pickmi App!<br>👨‍💼 Meet the visionary behind it all: Amal Prasad, leading the way in India's tech landscape.<br>🌍 Join us on our global journey from the heart of India.<br>🏢 We're not just a Startup; we're a force of technology distribution.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
